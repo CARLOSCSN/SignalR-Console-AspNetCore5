@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Net.Http;
 using Microsoft.AspNetCore.SignalR.Client;
 
 namespace SignalRClientConsole
@@ -8,8 +9,18 @@ namespace SignalRClientConsole
         static void Main(string[] args)
         {
             HubConnection connection = new HubConnectionBuilder()
-                .WithUrl(new Uri("https://localhost:5001/chatHub"))
-                .WithAutomaticReconnect()
+                .WithUrl("https://127.0.0.1:5001/chatHub", (opts) =>
+                {
+                    opts.HttpMessageHandlerFactory = (message) =>
+                    {
+                        if (message is HttpClientHandler clientHandler)
+
+                            // Usando o certificado de desenvolvedor auto assinado do .NET Core
+                            clientHandler.ServerCertificateCustomValidationCallback +=
+                                (sender, certificate, chain, sslPolicyErrors) => { return true; };
+                        return message;
+                    };
+                })
                 .Build();
 
             connection.StartAsync().Wait();
