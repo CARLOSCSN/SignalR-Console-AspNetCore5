@@ -1,0 +1,16 @@
+C:\Temp\SignalRInConsole\SignalRInConsole\obj\Debug\net5.0\SignalRInConsole.csproj.AssemblyReference.cache
+C:\Temp\SignalRInConsole\SignalRInConsole\obj\Debug\net5.0\SignalRInConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\SignalRInConsole\SignalRInConsole\obj\Debug\net5.0\SignalRInConsole.AssemblyInfoInputs.cache
+C:\Temp\SignalRInConsole\SignalRInConsole\obj\Debug\net5.0\SignalRInConsole.AssemblyInfo.cs
+C:\Temp\SignalRInConsole\SignalRInConsole\obj\Debug\net5.0\SignalRInConsole.csproj.CoreCompileInputs.cache
+C:\Temp\SignalRInConsole\SignalRInConsole\bin\Debug\net5.0\SignalRInConsole.exe
+C:\Temp\SignalRInConsole\SignalRInConsole\bin\Debug\net5.0\SignalRInConsole.deps.json
+C:\Temp\SignalRInConsole\SignalRInConsole\bin\Debug\net5.0\SignalRInConsole.runtimeconfig.json
+C:\Temp\SignalRInConsole\SignalRInConsole\bin\Debug\net5.0\SignalRInConsole.runtimeconfig.dev.json
+C:\Temp\SignalRInConsole\SignalRInConsole\bin\Debug\net5.0\SignalRInConsole.dll
+C:\Temp\SignalRInConsole\SignalRInConsole\bin\Debug\net5.0\ref\SignalRInConsole.dll
+C:\Temp\SignalRInConsole\SignalRInConsole\bin\Debug\net5.0\SignalRInConsole.pdb
+C:\Temp\SignalRInConsole\SignalRInConsole\obj\Debug\net5.0\SignalRInConsole.dll
+C:\Temp\SignalRInConsole\SignalRInConsole\obj\Debug\net5.0\ref\SignalRInConsole.dll
+C:\Temp\SignalRInConsole\SignalRInConsole\obj\Debug\net5.0\SignalRInConsole.pdb
+C:\Temp\SignalRInConsole\SignalRInConsole\obj\Debug\net5.0\SignalRInConsole.genruntimeconfig.cache

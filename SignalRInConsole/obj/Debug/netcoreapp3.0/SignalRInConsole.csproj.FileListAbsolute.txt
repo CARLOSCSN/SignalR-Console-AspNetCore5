@@ -1,0 +1,4 @@
+C:\Temp\SignalRInConsole\SignalRInConsole\obj\Debug\netcoreapp3.0\SignalRInConsole.csproj.AssemblyReference.cache
+C:\Temp\SignalRInConsole\SignalRInConsole\obj\Debug\netcoreapp3.0\SignalRInConsole.AssemblyInfoInputs.cache
+C:\Temp\SignalRInConsole\SignalRInConsole\obj\Debug\netcoreapp3.0\SignalRInConsole.AssemblyInfo.cs
+C:\Temp\SignalRInConsole\SignalRInConsole\obj\Debug\netcoreapp3.0\SignalRInConsole.csproj.CoreCompileInputs.cache
